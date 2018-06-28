@@ -1,0 +1,19 @@
+commit 12114dc9d77a2322e17529d5419e82b7fd5dd2d8
+Author: Daniel <daniellvalero41@gmail.com>
+Date:   Tue Jun 26 19:22:04 2018 -0400
+
+    Se le agrego parrafo de ejemplo al div de facebook
+
+
+commit 9bc2fe5d393cae4fc5405995d94dfc60004e9dc0
+Author: Daniel <daniellvalero41@gmail.com>
+Date:   Tue Jun 26 18:29:15 2018 -0400
+
+    Se agrego Facebook a la pagina
+
+
+commit 1ef012cea099381efd4634f12bfb833a9b407380
+Author: Daniel <daniellvalero41@gmail.com>
+Date:   Tue Jun 26 18:17:58 2018 -0400
+
+    Inicio del proyecto
